@@ -16,7 +16,7 @@ rm -rf .oh-my-zsh-custom
 
 # Setup zsh + .oh-my-zsh from git repo
 git init .
-git remote add origin "https://github.com/jasonyunicorn/zsh_config.git"
+git remote add origin "https://github.com/jasonyunicorn/terminal-config.git"
 git pull origin main
 git submodule update --init --recursive
 ```
